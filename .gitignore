@@ -21,27 +21,9 @@ ENV/
 # Loggfiler & Lokala utskrifter
 # ==========================================
 *.log
-datacenter.log
+
 
 # ==========================================
 # Jupyter Notebooks (Tillfälliga sparfiler)
 # ==========================================
 .ipynb_checkpoints/
-
-# ==========================================
-# Databasfiler (Lokala testdatabaser)
-# ==========================================
-*.db
-*.sqlite3
-
-# ==========================================
-# Editorer & IDE (VS Code / PyCharm)
-# ==========================================
-.vscode/
-.idea/
-
-# ==========================================
-# Operativsystemets skräpfiler
-# ==========================================
-.DS_Store
-Thumbs.db
